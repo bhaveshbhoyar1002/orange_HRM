@@ -1,0 +1,98 @@
+21:56:59.810 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+21:57:14.119 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+21:57:28.003 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+21:57:42.565 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+21:57:56.338 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+21:58:07.025 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ************Finished******************
+22:09:19.638 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+22:09:34.836 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+22:09:48.817 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+22:10:02.495 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+22:10:16.298 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+22:10:28.133 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ************Finished******************
+22:11:20.977 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+22:11:35.665 [main] INFO  testClasses.TC_004_Login_Data_Driven_Test - ******* Straing TC_004_Login_Data_Driven_Test********** 
+10:54:22.792 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+10:54:23.419 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+10:54:26.579 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+10:54:29.695 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+10:54:38.736 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+10:54:46.013 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+10:56:40.309 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+10:56:40.821 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+10:56:43.962 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+10:56:47.073 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+10:56:56.038 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+10:57:03.161 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+10:57:35.999 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+10:57:36.533 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+10:57:39.638 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+10:57:42.737 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+10:57:51.926 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+10:57:59.433 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+10:59:06.170 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+10:59:06.670 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+10:59:09.810 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+10:59:12.903 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+10:59:21.816 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+11:17:34.059 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+11:17:34.611 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+11:17:37.783 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+11:17:40.891 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+11:17:50.143 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+11:17:57.958 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+11:23:14.087 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+11:23:14.866 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+11:23:17.986 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+11:23:21.042 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+11:23:30.003 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+11:23:36.879 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+11:24:47.987 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+11:24:48.533 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+11:24:51.703 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+11:24:54.805 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+11:25:03.659 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+11:25:11.212 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+11:26:55.886 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+11:27:52.458 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+11:27:53.160 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+11:27:56.315 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+11:28:00.757 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+11:28:09.872 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+11:28:17.721 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+16:23:18.777 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+16:23:19.626 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+16:23:22.732 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+16:23:25.860 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+16:23:34.735 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+16:23:41.642 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+16:30:50.440 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+16:30:50.860 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+16:30:53.975 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+16:30:57.035 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+16:31:05.886 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+16:31:12.439 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+11:22:13.163 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+11:22:14.291 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+11:22:17.413 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+11:22:20.509 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+11:22:29.386 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+11:22:36.963 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+17:07:23.370 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+17:07:24.556 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+17:07:27.776 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+17:07:30.916 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+17:07:40.095 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+17:07:49.899 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+22:37:28.655 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+22:37:29.309 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+22:37:32.513 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+22:37:36.836 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+22:37:45.901 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+22:37:54.823 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
+22:43:04.667 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Starting Login Testcase*********************
+22:43:05.333 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Username*********************
+22:43:08.524 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Enter Password*********************
+22:43:11.675 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************Click on Login*********************
+22:43:20.863 [main] INFO  testClasses.TC_001_Login_with_valid_credentials - ******************finished testcase*********************
+22:43:30.633 [main] INFO  testClasses.TC_002_Forget_Password_Link - ******************Starting Login Testcase*********************
